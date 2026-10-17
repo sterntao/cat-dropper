@@ -9,9 +9,9 @@ The application source stays in a private repository. This page is a public over
 ## What it does
 
 - **Research.** Find products that already sell and collect source links for similar items.
-- **Auto Lister.** Turn source product links into eBay or Poshmark listings.
 - **Fulfillment.** Work sold orders from the source side and keep a profit history.
 - **Tracker.** Watch listed items for stock and shipping changes.
 - **Store Optimizer and profit dashboard.** See what sold and how the store is doing.
+- **Auto Lister.** Turn source product links into live marketplace listings.
 
 Accounts, plans, and billing live on the Cat Dropper server. The extension is the signed-in app.
