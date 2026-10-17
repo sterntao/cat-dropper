@@ -15,11 +15,3 @@ The application source stays in a private repository. This page is a public over
 - **Store Optimizer and profit dashboard.** See what sold and how the store is doing.
 
 Accounts, plans, and billing live on the Cat Dropper server. The extension is the signed-in app.
-
-## Screenshots
-
-![Product research](screenshots/01-seller-scanner-1280x800.jpg)
-
-![Auto Lister](screenshots/02-auto-lister-1280x800.jpg)
-
-![Assistant](screenshots/03-assistant-1280x800.jpg)
